@@ -1,2 +1,2 @@
-# LANDING PAGE PROJECT
-This is a project that creates a website landing page using html and css
+# LANDING PAGE
+This is a project that creates a website landing page using HTML and CSS
